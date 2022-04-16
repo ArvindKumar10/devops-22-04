@@ -2,7 +2,7 @@ name: Click CLI Test
 on: push
 jobs:
   build:
-    runs-on:ubantu-latest
+    runs-on: ubantu-latest
     steps:
     - uses: action/checkout@v2
     - name: Set up Python 3.8
