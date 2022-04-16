@@ -4,7 +4,7 @@ devops best practices
 ## Create a scaffold
 
 * `requirement.txt` : packages
-* 'Makefile': Cookbook runs commands
+* `Makefile`: Cookbook runs commands
 * `hello.py`:Code
 * `test_hello.py`: Test Code
 
